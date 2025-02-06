@@ -11,12 +11,14 @@
 	<img src="./Wokwi截圖1.png" alt="Editor" width="500">
 </div>
 <br>
+
 2. LiquidCrystal.ino：懂的使用LiquidCrystal I2C來顯示文字，以下為對應的線路配置圖：
 <br>
 <div align="center">
 	<img src="./Wokwi截圖2.png" alt="Editor" width="500">
 </div>
 <br>
+
 3. Mix.ino：將上述兩種元件結合在一起，以下為對應的線路配置圖：
 <br>
 <div align="center">
