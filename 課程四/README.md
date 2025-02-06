@@ -1,15 +1,26 @@
-# MIPS Assembly Language - HomeWorks of Computer Organization and Architecture
+# 課程四
 
-**作品名稱：** MIPS指令集的練習
+**教學主題：** 間歇性雨刷
+	
+**目的：** 學習善用伺服馬達、可變電阻，來控制機械裝置。
 
-**動機：** 該作品為本人在修讀計算機組織與結構課程時的作業。在修讀過程中，教授為了讓我們更加了解MIPS指令集的格式(機械語言呈現方式)，與組合語言的運作方式，以利了解CPU數位電路設計核心想法，故特別給予以下幾題的練習。
-
-**使用指令集：** MIPS
-
-**開發IDE：** Mars4_5.jar
-
-**題目解說：** 題目主要有四題，分別如下：
-1. W1.asm：題目為輸入一數列，回傳第二大與第二小數值。
-3. W2.asm：題目為輸入除數與被除數，回傳計算後的商值。
-4. W3.asm：題目為輸入一數值，回傳該數值的reversal。
-5. W4.asm：題目為計算乘冪。
+**操作解說：** 這門課程主要包含三個學習重點，分別如下：
+1. Servo_1.ino：主要學習如何讓伺服馬達一句指定角度擺動。線路配置如下圖所示：
+<br>
+<div align="center">
+	<img src="./Wokwi截圖1.png" alt="Editor" width="500">
+</div>
+<br>
+2. Servo_2.ino：主要學習如何透過可變電阻，控制伺服馬達轉動角度。以下為對應的線路配置圖：
+<br>
+<div align="center">
+	<img src="./Wokwi截圖2.png" alt="Editor" width="500">
+</div>
+<br>
+3. Pushbutton_3.ino：實現按壓Push Button一次讓LED燈開啟，再按一次則關閉。<br>
+4. Slide Switchg的使用，以下為對應的線路配置圖，本練習不需要撰寫程式碼。
+<br>
+<div align="center">
+	<img src="./Wokwi截圖3.png" alt="Editor" width="500">
+</div>
+<br>
