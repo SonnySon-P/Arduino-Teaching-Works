@@ -17,7 +17,7 @@
 	<img src="./Wokwi截圖2.png" alt="Editor" width="500">
 </div>
 <br>
-3. Mix.ino：講上述兩種元件結合在一起，以下為對應的線路配置圖：
+3. Mix.ino：將上述兩種元件結合在一起，以下為對應的線路配置圖：
 <br>
 <div align="center">
 	<img src="./Wokwi截圖3.png" alt="Editor" width="500">
