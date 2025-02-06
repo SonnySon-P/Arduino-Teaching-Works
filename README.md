@@ -12,3 +12,5 @@
 3. [米羅科技文創學院](https://shop.mirotek.com.tw/blog/)
 4. [CIRCUS Pi](https://makerpro.cc/category/mainboard/arduino/)
 5. [Ray的Arduino教學](https://sites.google.com/view/rayarduino/home-更多-arduino-練習)
+
+**致謝：** 值得感謝的人很多，除了參考資源這些先進外，特別要感謝的便是Wokwi，提供一個模擬Arduino的環境。
