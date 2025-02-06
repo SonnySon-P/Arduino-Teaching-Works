@@ -1,8 +1,8 @@
 # 課程三
 
-**教學主題：** Push Button的使用
+**教學主題：** Push Button、Slide Switchg的使用
 	
-**目的：** 學習善用Push Button，來控制電路。
+**目的：** 學習善用Push Button、Slide Switchg，來控制電路。
 
 **操作解說：** 這門課程主要包含三個學習重點，分別如下：
 1. Pushbutton_1.ino：直接透過按壓Push Button，即可決定LED燈的開關狀態。線路配置如下圖所示：
@@ -18,3 +18,9 @@
 </div>
 <br>
 3. Pushbutton_3.ino：實現按壓Push Button一次讓LED燈開啟，再按一次則關閉。(線路配置圖同Pushbutton_2.ino)
+4. Slide Switchg的使用，以下為對應的線路配置圖，本練習不需要撰寫程式碼。
+<br>
+<div align="center">
+	<img src="./Wokwi截圖3.png" alt="Editor" width="500">
+</div>
+<br>
