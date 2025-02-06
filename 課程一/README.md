@@ -7,6 +7,6 @@
 **操作解說：** 線路配置如下圖所示：
 <br>
 <div align="center">
-	<img src="./wiki截圖.png" alt="Editor" width="500">
+	<img src="./Wokwi截圖.png" alt="Editor" width="500">
 </div>
 <br>
