@@ -11,18 +11,21 @@
 	<img src="./Wokwi截圖1.png" alt="Editor" width="500">
 </div>
 <br>
+
 2. max7219_2.ino：理解如何使用隨機數，呈現不規則閃爍。線路配置圖同上，顯示如下所示：
 <br>
 <div align="center">
 	<img src="./Wokwi截圖2.png" alt="Editor" width="500">
 </div>
 <br>
+
 3. max7219_3.ino：利用矩陣存載文字訊息與使用迴圈讀取，達到顯示預設文字的效果。線路配置圖同上，顯示如下所示：
 <br>
 <div align="center">
 	<img src="./Wokwi截圖3.png" alt="Editor" width="500">
 </div>
 <br>
+
 4. max7219_4.ino：完成跑馬燈的最終形態。線路配置圖同上，顯示如下所示：
 <br>
 <div align="center">
