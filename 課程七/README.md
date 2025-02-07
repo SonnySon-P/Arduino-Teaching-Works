@@ -12,7 +12,7 @@
 </div>
 <br>
 2. Mix.ino：將上述Buzzer與PIR motion sensor結合在一起，可以偵測感應物體接近，並發出警報聲，以下為對應的線路配置圖：
-
+<br>
 <br>
 <div align="center">
 	<img src="./Wokwi截圖2.png" alt="Editor" width="500">
