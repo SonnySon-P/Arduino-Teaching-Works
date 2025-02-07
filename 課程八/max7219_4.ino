@@ -25,9 +25,9 @@ void loop() {
     for (int i = 0; i < 8; i++) {
       if (word_matrix[i][j] == 1) 
       {
-        lc.setLed(0, i, j - t % 18, true);
+        lc.setLed(0, i, (j - t % 18 + 18) % 18, true);
       } else {
-        lc.setLed(0, i, j - t % 18, false);
+        lc.setLed(0, i, (j - t % 18 + 18) % 18, false);
       } 
     } 
   }
