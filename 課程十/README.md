@@ -4,7 +4,7 @@
 	
 **目的：** 學習如何使用Dip Switch-8跟7 Segment。
 
-**操作解說：** 這門課程主要包含三個學習重點，分別如下：
+**操作解說：** 這門課程主要包含兩個學習重點，分別如下：
 1. 7 Segment_1.ino：學習Dip Switch-8操控7 Segment的每個燈號，線路配置如下圖所示：
 <br>
 <div align="center">
