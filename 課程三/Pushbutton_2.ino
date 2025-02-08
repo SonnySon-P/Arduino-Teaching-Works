@@ -1,10 +1,14 @@
 void setup() 
 {
-  pinMode(7, OUTPUT);
+  pinMode(13, OUTPUT);
+  pinMode(9, INPUT_PULLUP);
 }
 
 void loop() 
 {
-  digitalWrite(7, HIGH);
-
+  if (digitalRead(9) == LOW) {
+    digitalWrite(13, HIGH);
+  } else {
+    digitalWrite(13, LOW);
+  }
 }
