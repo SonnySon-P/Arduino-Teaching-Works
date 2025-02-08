@@ -5,7 +5,7 @@
 **目的：** 學習善用max7219，來顯示文字。
 
 **操作解說：** 這門課程主要包含四個學習重點，分別如下：
-1. max7219_1.ino：懂的如何控制max7219中每一顆LED燈泡的亮滅。線路配置如下圖所示：
+1. max7219_1.ino：懂的如何控制max7219中每一顆LED燈泡的亮滅。線路配置如下圖所示：(需要事先下載與安裝LedControl.h函式庫)
 <br>
 <div align="center">
 	<img src="./Wokwi截圖1.png" alt="Editor" width="500">
