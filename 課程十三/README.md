@@ -5,7 +5,7 @@
 **目的：** 學習善用FreeRTOS與步進馬達。
 
 **操作解說：** 這門課程主要包含兩個學習重點，分別如下：
-1. FreeRTOS_1.ino：學習讓同步執行不同任務。線路配置如下圖所示：
+1. FreeRTOS_1.ino：學習讓同步執行不同任務。線路配置如下圖所示：(需要事先下載與安裝FreeRTOS.h函式庫)
 <br>
 <div align="center">
 	<img src="./Wokwi截圖1.png" alt="Editor" width="500">
