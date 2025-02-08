@@ -4,7 +4,7 @@
 	
 **目的：** 學習善用Ultrasonic、Serial Monitor，來進行量測距離。
 
-**操作解說：** 線路配置如下圖所示：
+**操作解說：** 線路配置如下圖所示：(需要事先下載與安裝Ultrasonic.h函式庫)
 
 <br>
 <div align="center">
