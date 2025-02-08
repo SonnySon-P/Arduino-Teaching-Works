@@ -1,15 +1,15 @@
-#include <Servo.h>
+#include <Ultrasonic.h>
 
-Servo servo;
+Ultrasonic ultrasonic(10, 9);
 
 void setup() {
-  servo.attach(13);
-  servo.write(30);
+  Serial.begin(9600);
 }
 
 void loop() {
-  servo.write(30);
-  delay(2000);
-  servo.write(150);
-  delay(2000);
+  int distance = ultrasonic.read();
+  Serial.print("量測距離為: ");
+  Serial.print(distance);
+  Serial.println("cm");
+  delay(500);
 }
