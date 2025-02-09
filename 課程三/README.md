@@ -2,7 +2,7 @@
 
 **教學主題：** 怎麼開燈呢？
 	
-**目的：** 學習善用Push Button、Slide Switchg、digitalRead跟上拉電阻，來控制電路。
+**目的：** 學習善用Push Button、Slide Switchg、digitalRead跟上拉電阻(使用Arduino內建電阻)，來控制電路。
 
 **操作解說：** 這門課程主要包含三個學習重點，分別如下：
 1. Pushbutton_1.ino：直接透過按壓Push Button，即可決定LED燈的開關狀態。線路配置如下圖所示：
