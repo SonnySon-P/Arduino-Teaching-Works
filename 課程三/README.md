@@ -1,6 +1,6 @@
 # 課程三
 
-**教學主題：** Push Button、Slide Switchg的使用
+**教學主題：** 怎麼開燈呢？
 	
 **目的：** 學習善用Push Button、Slide Switchg，來控制電路。
 
